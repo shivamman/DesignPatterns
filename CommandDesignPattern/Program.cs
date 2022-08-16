@@ -6,6 +6,9 @@ namespace CommandDesignPattern
     {
         static void Main(string[] args)
         {
+            //new 
+            // New Command Executed 
+            //file, open, close
             string stringCommand = Console.ReadLine().ToString();
             #region ifs
             //if(stringCommand == "file")
